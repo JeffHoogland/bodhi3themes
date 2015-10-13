@@ -1,0 +1,9 @@
+Package: bodhi-theme-moksha-kl4k
+Version: 0.1
+Section: main
+Priority: optional
+Depends: moksha, light-themes
+Architecture: all
+Maintainer: Jeff Hoogland <Jeff@bodhilinux.com>
+Description: A Flat Dark Moksha Theme
+ Moksha Theme for the Bodhi desktop
