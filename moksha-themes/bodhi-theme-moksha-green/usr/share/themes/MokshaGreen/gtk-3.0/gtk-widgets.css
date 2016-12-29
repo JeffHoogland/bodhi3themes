@@ -348,9 +348,11 @@ row:prelight {
 .radio,
 .check:insensitive,
 .radio:insensitive {
-    border-style: none;
-    background-color: transparent;
-}
+    border-width: 1px 1;
+    border-style: solid;
+    /*border-color: shade(@theme_selected_bg_color, 0.9);*/
+    /* background-color: @theme_selected_bg_color;*/
+}  
 
 GtkCheckButton:hover,
 GtkCheckButton:active:hover,
