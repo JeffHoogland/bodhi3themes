@@ -1,5 +1,5 @@
 Package: bodhi-theme-moksha-detour
-Version: 0.7
+Version: 0.11
 Section: main
 Priority: optional
 Depends: moksha
